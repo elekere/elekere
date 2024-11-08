@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I currently work on web-based software projects.
-- 🌱 I’m presently learning more of Javascript -- intermediate/advanced level.
+- 🌱 I’m learning more of Javascript -- intermediate/advanced level.
 - 👯 I’m looking to collaborate on opensource projects.
 - 📫 How to reach me: elekere@outlook.com
 - 😄 Pronouns: He/his/him
