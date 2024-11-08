@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on opensource projects.
 - 📫 How to reach me: elekere@outlook.com
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: When I'm not doing software... I muse about life and write about it. I love to read well-written non-fiction books and articles. I cool off with songs that appeal to my taste per time. I enjoy having quality healthy conversations with people.
+- ⚡ Fun fact: If I'm not doing software... I'm very likely getting a good sleep. Or helping my neighbour somewhere. Or musing or writing about life. Or reading something non-fiction. Or cooling off with songs that appeal to my mood. Or havng a healthy conversation with someone. Or doing statistics.
