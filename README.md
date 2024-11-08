@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I currently work on web-based software projects, using Javascript, HTML, CSS, and relavant libraries/frameworks.
+- 🔭 I currently work on web-based software projects, using relavant languages, libraries, and frameworks.
 - 🌱 I’m presently learning more of Javascript -- intermediate/advanced level.
 - 👯 I’m looking to collaborate on opensource projects.
 - 📫 How to reach me: elekere@outlook.com
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: If I'm not doing software... I'm very likely getting a good sleep. Or helping my neighbour somewhere. Or musing or writing about life. Or reading something non-fiction. Or cooling off with songs that appeal to my mood. Or havng a healthy conversation with someone. Or doing statistics.
+- ⚡ Fun fact: If I'm not crafting software... I'm very likely getting a good sleep. Or helping my neighbour somewhere. Or musing or writing about life. Or reading something non-fiction. Or cooling off with songs that appeal to my mood. Or havng a healthy conversation with someone. Or doing statistics.
