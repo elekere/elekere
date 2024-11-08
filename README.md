@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I currently work on web-based software projects, using relavant languages, libraries, and frameworks.
+- 🔭 I currently work on web-based software projects.
 - 🌱 I’m presently learning more of Javascript -- intermediate/advanced level.
 - 👯 I’m looking to collaborate on opensource projects.
 - 📫 How to reach me: elekere@outlook.com
