@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I currently work on web-based software projects.
-- 🌱 I’m learning more of Javascript -- intermediate/advanced level.
-- 👯 I’m looking to collaborate on opensource projects.
+- 🌱 I’m learning more of Javascript -- intermediate/advanced level Javascript.
+- 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: elekere@outlook.com
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: If I'm not crafting software... I'm very likely getting some good sleep. Or helping my neighbour somewhere. Or musing or writing about life. Or reading something non-fictious. Or listening to songs to cool off. Or having a healthy conversation with someone. Or doing statistics.
+- ⚡ Fun fact: When I'm not crafting software, I'm likely getting some good sleep. Or helping my neighbour somewhere. Or musing and writing about life. Or reading something non-fictitious. Or listening to songs to cool off. Or having a healthy conversation with someone. Or doing statistics.
