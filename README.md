@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I presently work on web-based software projects.
+- 🌱 I’m currently learning more of Javascript -- intermediate and advanced.
+- 👯 I’m looking to collaborate on opensource projects.
+- 📫 How to reach me: elekere@outlook.com
+- 😄 Pronouns: He/his/him
+- ⚡ Fun fact: When I'm not doing software, I muse about life and write about it. I love to read well-written non-fiction. I cool off with songs that appeal to my taste per time. I enjoy having quality healthy conversations with people.
