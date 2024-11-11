@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: When I'm not crafting software, I'm likely getting some necessary sleep. Or helping my neighbour somewhere. Or musing and writing about life. Or reading a good book/article. Or listening to songs to cool off. Or having a healthy conversation with someone. Or doing statistics.
 -->
 
 - 🔭 I currently work on web-based software projects.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: elekere@outlook.com
 - 😄 Pronouns: He/his/him
-- ⚡ Fun fact: When I'm not crafting software, I'm likely getting some necessary sleep. Or helping my neighbour somewhere. Or musing and writing about life. Or reading a good book/article. Or listening to songs to cool off. Or having a healthy conversation with someone. Or doing statistics.
+
