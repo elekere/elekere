@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - 🌱 I’m learning more of Javascript -- intermediate/advanced level Javascript.
 - 👯 I’m looking to collaborate on open-source projects.
 - 📫 How to reach me: elekere@outlook.com
-- 🙂 Pronouns: He/his/him
-
