@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on web-based software projects.
 - 🌱 Learning more of Javascript -- intermediate + advanced level Javascript.
-- 👯 Looking to collaborate on open-source projects.
+- 🤼‍♀️ Looking to collaborate on open-source projects.
 - 📫 How to reach me: elekere@outlook.com
