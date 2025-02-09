@@ -18,4 +18,4 @@ I'm ...
 - 🔭 Currently working on web-based software projects
 - 🌱 Learning more about CSS & Javascript
 - 🤼‍♀️ Looking to collaborate on open-source projects
-- 📫 Reachable by email: elekere@outlook.com
+- 📫 Reachable by e-mail: elekere@outlook.com
