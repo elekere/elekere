@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I write. I build software. I teach Igbo.
+I teach Igbo. I write. I build software.
 
 - 🔭 Currently working on web-based projects
 - 🌱 Learning more about CSS & Javascript
