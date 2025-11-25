@@ -2,6 +2,6 @@
 
 I teach Igbo. I write. I build software.
 
-- 🔭 Currently working on web-based projects
-- 🌱 Learning more about CSS & Javascript
-- 📫 Reachable by e-mail: elekere@outlook.com
+- 🔭 I currently work on web-based platforms
+- 🌱 I'm learning more about CSS & Javascript
+- 📫 I'm Reachable by e-mail: elekere@outlook.com
